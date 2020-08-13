@@ -2,11 +2,12 @@
   width: 200px;
 }
 
-.title{
+.title {
   color: white;
 }
-.mainText{
-  color:white;
+
+.mainText {
+  color: white;
 }
 
 body {
@@ -17,10 +18,22 @@ body {
 
 }
 
-.page-footer{
+.page-footer {
   background-color: #9E65A9;
 }
+
 main {
   flex: 1 0 auto;
 }
-    
+
+#worldmap {
+  height: 300px;
+}
+
+#journalsContainer{
+  font-size: 30px;
+}
+
+#journalsSpace{
+  font-size: 20px;
+}
